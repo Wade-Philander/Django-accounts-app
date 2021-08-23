@@ -19,6 +19,7 @@ class TestCMRApp(StaticLiveServerTestCase):
         self.browser.close()
 
     # TEST LOGIN FORM 
+    #zxcvgbhjkllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
 
     def TestIfCustomerExist(self):
         self.browser.get(self.live_server_url)
